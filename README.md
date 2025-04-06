@@ -19,5 +19,8 @@ journal={...},
   <img src="images/Graph.png" width="700" title="Ontology Prototype">
 </p>
 
-# usage
-.....explain how to open the file from here to protege ....
+# Usage
+To open the ontology graph, do the following steps:
+1. Download the ontology graph file from the [ontology](url) folder.
+2. Import the downloaded file into the WebPortege.
+3. Open the project to view the graph.  
