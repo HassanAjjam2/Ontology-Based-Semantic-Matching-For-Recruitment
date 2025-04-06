@@ -21,6 +21,6 @@ journal={...},
 
 # Usage
 To open the ontology graph, do the following steps:
-1. Download the ontology graph file from the [ontology](url) folder.
+1. Download the ontology graph file from the [ontology](https://github.com/HassanAjjam2/Ontology-Based-Semantic-Matching-For-Recruitment/tree/main/ontology) folder.
 2. Import the downloaded file into the WebPortege.
 3. Open the project to view the graph.  
